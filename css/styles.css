@@ -6,6 +6,15 @@
   padding: 3% 15%;
 }
 
+.btn {
+  margin: 10% 2% 10% 0
+}
+
+.navbar {
+  padding: 0 0;
+  margin: 5% 0
+}
+
 h1 {
   font-family: 'Montserrat', sans-serif;
   font-size: 3rem;
