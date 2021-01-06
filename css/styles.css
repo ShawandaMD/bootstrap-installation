@@ -51,3 +51,14 @@ h1 {
   width: 60%;
   transform: rotate(25deg);
 }
+
+/* Features */
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 900;
+}
+
+p {
+  color:#8f8f8f;
+}
