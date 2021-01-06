@@ -72,3 +72,7 @@ p {
   padding: 5% 5%;
   color: #ef8172;
 }
+
+.features-image:hover {
+  color: #ff4c68;
+}
