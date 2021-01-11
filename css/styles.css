@@ -5,6 +5,7 @@ body {
 #title {
   background-color: #ff4c68;
   color: #fff;
+  position: relative;
 }
 
 /* Navigation Bar */
@@ -51,12 +52,14 @@ h1 {
   width: 60%;
   transform: rotate(25deg);
   position: absolute;
+  z-index: 0;
 }
 
 /* Features */
 #Features {
   background-color: #fff;
   position: absolute;
+  z-index: 0;
 }
 
 h3 {
