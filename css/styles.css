@@ -154,7 +154,7 @@ h2 {
   background-color: #ff4c68;
   color: #fff;
   text-align: center;
-  padding: 7% 15%
+  padding: 7% 15%;
 }
 
 .cta-heading {
@@ -168,4 +168,12 @@ h2 {
 
 .footer-button {
   margin: 2% 1%;
+}
+
+/* Footer */
+
+#footer {
+  background-color: #fff;
+  text-align: center;
+    padding: 7% 15%;
 }
