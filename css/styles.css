@@ -134,3 +134,16 @@ h2 {
 .pricing-deck {
   padding: 3% 2%;
 }
+
+@media (max-width: 1028px) {
+
+  #title {
+    text-align: center;
+  }
+
+  .title-image {
+    width: 60%;
+    position: static;
+    transform: rotate(0deg)
+  }
+}
